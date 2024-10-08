@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Oct 08 17:03:26 GMT 2024","Tue Oct 08 17:03:26 GMT 2024","312","tests","test_login","","","","Авторизация с корректными учетными данными",""
+"passed","Tue Oct 08 17:03:26 GMT 2024","Tue Oct 08 17:03:26 GMT 2024","296","tests","test_login","","","","Авторизация с корректными учетными данными",""
+"passed","Tue Oct 08 17:03:25 GMT 2024","Tue Oct 08 17:03:25 GMT 2024","222","tests","test_login","","","","Авторизация с недействительными учетными данными",""
